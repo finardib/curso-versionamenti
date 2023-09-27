@@ -8,7 +8,7 @@ Respositório para armazenar um resumo dos comandos utilizados durante o curso *
 * [GIT](https://git-scm.com/doc)
 * [GitHub](https://docs.github.com/)
 
-### Comandos x Função
+### Comandos x Funções
 
 | Comando | Função |
 |---------|--------|
